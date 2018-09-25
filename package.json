@@ -24,7 +24,7 @@
     "pug": "2.0.3",
     "pug-loader": "2.4.0",
     "rimraf": "2.6.2",
-    "ts-loader": "5.2.0",
+    "ts-loader": "5.2.1",
     "ts-node": "7.0.1",
     "typescript": "3.0.3",
     "webextension-polyfill": "0.3.1",
