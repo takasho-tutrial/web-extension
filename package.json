@@ -17,7 +17,7 @@
   "homepage": "https://github.com/takasho-tutrial/web-extension#readme",
   "devDependencies": {
     "@types/webpack": "4.4.16",
-    "@types/node": "10.11.0",
+    "@types/node": "10.11.7",
     "copy-webpack-plugin": "4.5.3",
     "html-webpack-plugin": "3.2.0",
     "npm-run-all": "4.1.3",
