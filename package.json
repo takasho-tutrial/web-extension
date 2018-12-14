@@ -28,7 +28,7 @@
     "ts-node": "7.0.1",
     "typescript": "3.2.2",
     "webextension-polyfill": "0.3.1",
-    "webpack-chrome-extension-reloader": "1.0.0",
+    "webpack-chrome-extension-reloader": "1.0.1",
     "webpack": "4.27.1",
     "webpack-cli": "3.1.2"
   }
