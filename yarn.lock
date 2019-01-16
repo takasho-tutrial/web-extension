@@ -34,9 +34,9 @@
   dependencies:
     source-map "^0.6.1"
 
-"@types/webpack@4.4.22":
-  version "4.4.22"
-  resolved "https://registry.yarnpkg.com/@types/webpack/-/webpack-4.4.22.tgz#c4a5ea8b74a31b579537515bcfe86d2b2a34382c"
+"@types/webpack@4.4.23":
+  version "4.4.23"
+  resolved "https://registry.yarnpkg.com/@types/webpack/-/webpack-4.4.23.tgz#059d6f4598cfd65ddee0e2db38317ef989696712"
   dependencies:
     "@types/anymatch" "*"
     "@types/node" "*"
