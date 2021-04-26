@@ -3287,9 +3287,10 @@ watchpack@^1.5.0:
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"
 
-webextension-polyfill@0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/webextension-polyfill/-/webextension-polyfill-0.3.1.tgz#fab2aed917a713a5d8221e41febad81c5d0b080f"
+webextension-polyfill@0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/webextension-polyfill/-/webextension-polyfill-0.8.0.tgz#f80e9f4b7f81820c420abd6ffbebfa838c60e041"
+  integrity sha512-a19+DzlT6Kp9/UI+mF9XQopeZ+n2ussjhxHJ4/pmIGge9ijCDz7Gn93mNnjpZAk95T4Tae8iHZ6sSf869txqiQ==
 
 webpack-chrome-extension-reloader@1.1.2:
   version "1.1.2"
