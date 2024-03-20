@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/takasho-tutrial/web-extension#readme",
   "devDependencies": {
-    "@types/webpack": "4.4.23",
+    "@types/webpack": "5.28.5",
     "@types/node": "10.12.18",
     "copy-webpack-plugin": "4.6.0",
     "html-webpack-plugin": "3.2.0",
@@ -29,7 +29,7 @@
     "typescript": "3.2.4",
     "webextension-polyfill": "0.3.1",
     "webpack-chrome-extension-reloader": "1.1.2",
-    "webpack": "4.29.0",
+    "webpack": "5.91.0",
     "webpack-cli": "3.2.1"
   }
 }
